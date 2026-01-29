@@ -1,4 +1,4 @@
-## Dune algae project
+## Day 4 Mini project
 ## Tasks seting
   - **Format:** online calls, use Slack for commmunication, personal meetings,teambuildings
   
