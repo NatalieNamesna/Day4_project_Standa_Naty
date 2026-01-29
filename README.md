@@ -18,17 +18,8 @@ This project is focused on exploration of Southern Bohemian wet meadows as they 
 - **Status:** Field sampling in progress; Analysis in progress ![Static Badge](https://img.shields.io/badge/Status-In%20progress-red)
 
 ## Repository Structure
+<img width="629" height="262" alt="image" src="https://github.com/user-attachments/assets/94917593-a38d-4457-9f67-15552ca24e8a" />
 
-├── Data/
-│   ├── Raw/           # Original field observations (READ-ONLY)
-│   └── Processed/     # Cleaned datasets
-|   └── Env_metadata/     # temperature, moisture, weather data
-|   └── Diversity_indices/  # Diversity data
-├── R/                 # Analysis scripts (run in order: 01_, 02_, 03_...)
-├── Outputs/
-│   ├── Figures/
-│   └── Tables/
-└── README.md
 
 ## Getting Started
 1. Look on the project webpages: www.southernmeadows.com
